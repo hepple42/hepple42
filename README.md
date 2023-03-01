@@ -22,9 +22,9 @@ My fellow 42 student [tjensen42] and I built a raytracing-based 3D renderer in C
 Using a path tracing algorithm, we were able to implement fundamental physical and mathematical concepts to generate beautiful images.
 This conncetion between physics and code was especially interesting to me.
 
-#### [Webserver]
+#### [Web Server]
 
-Together with my peers [tjensen42] and [khirsig], I created a HTTP webserver in C++.
+Together with my peers [tjensen42] and [khirsig], I created a HTTP web server in C++.
 We used Nginx as a reference, and our server is following the HTTP/1.1 standard.
 In this project, I learned a lot about the HTTP protocol, but also about the functioning of the internet in general.
 
@@ -45,7 +45,7 @@ Its features include several builtins, redirections, pipes, subshells, variables
 
 
 [Raytracer]: https://github.com/hepple42/42-miniRT
-[Webserver]: https://github.com/hepple42/42-webserv
+[Web Server]: https://github.com/hepple42/42-webserv
 [C++ STL Containers]: https://github.com/hepple42/42-ft_containers
 [Shell]: https://github.com/hepple42/42-minishell
 
