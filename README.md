@@ -4,15 +4,11 @@ a quantum physicist and currently a student at __42 Heilbronn__ coding school.
 
 [42 Heilbronn] is a programming school with a peer-learning-based eduacational model, where I've been learning to code by working on different projects, mainly in C and C++. 
 
-I am currently working on the last project to finish the 42 core curriculum and move on to an internship.
+I have finished the 42 core curriculum and am currently looking for an internship.
 
 ## Main Languages and Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=c,cpp,bash,vscode,docker,git,github)](https://skillicons.dev)
-
-## Current Project
-
-#### ft_transcendence
 
 ## Some of my 42 Projects
 
