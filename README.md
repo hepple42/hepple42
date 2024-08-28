@@ -1,10 +1,9 @@
-## Hey everyone, I'm __Hannes__,
+## Hello everyone, I'm __Hannes__.
 
-a quantum physicist and currently a student at __42 Heilbronn__ coding school.
-
-[42 Heilbronn] is a programming school with a peer-learning-based eduacational model, where I've been learning to code by working on different projects, mainly in C and C++. 
-
-I have finished the 42 core curriculum and am currently looking for an internship.
+I'm a physicist and currently a student at the __42 Heilbronn__ coding school.
+[42 Heilbronn] is a programming school with a peer learning based educational model, where I've been learning to code by working on different projects, mainly in C and C++.
+The project-based approach employed by 42 Heilbronn fosteres a high level of self-organization, while the peer-to-peer learning model requires critical social skills.
+After completing a 6 month internship, in addition to the core curriculum, I am looking for an opportunity to put my skills into practice.
 
 ## Main Languages and Tools
 
@@ -14,25 +13,25 @@ I have finished the 42 core curriculum and am currently looking for an internshi
 
 #### [Raytracer]
 
-My fellow 42 student [tjensen42] and I built a raytracing-based 3D renderer in C.
-Using a path tracing algorithm, we were able to implement fundamental physical and mathematical concepts to generate beautiful images.
-This conncetion between physics and code was especially interesting to me.
+My fellow 42 student [tjensen42] and I built a ray traced 3D renderer in C.
+Using a path tracing algorithm, we implemented fundamental physical and mathematical concepts to generate beautiful images.
+I was immediately fascinated by this direct link between physics and code.
 
 #### [Web Server]
 
 Together with my peers [tjensen42] and [khirsig], I created a HTTP web server in C++.
-We used Nginx as a reference, and our server is following the HTTP/1.1 standard.
-In this project, I learned a lot about the HTTP protocol, but also about the functioning of the internet in general.
+We used Nginx as a reference, and our server implements the [HTTP/1.1 standard](https://www.rfc-editor.org/rfc/rfc2616).
+This project taught me a lot about the HTTP protocol, but also about how the Internet works in general.
 
 #### [C++ STL Containers]
 
-To get familliar with the C++ STL and template programming, I recoded the C++ containers vector, map, stack, and set. 
-I also implemented a red-black tree as an underlying data structure for map and set, as well as iterator systems and utilities like std::pair or std::enable_if.
+To familiarise myself with the C++ STL and template programming, I implemented the C++ containers vector, map, stack, and set from scratch. 
+This includes creating a red-black tree as an underlying data structure for map and set, as well as iterator systems and utilities like std::pair or std::enable_if.
 
 #### [Shell]
 
-As our first bigger project at 42, [tjensen42] and I coded a small bash-like shell in C.
-Its features include several builtins, redirections, pipes, subshells, variables, and much more.
+As our first major project at 42, [tjensen42] and I coded a small bash-like shell in C.
+Its features include several builtins, redirections, pipes, subshells, variables, and other standard functionality.
 
 
 [42 Heilbronn]: https://www.42heilbronn.de/learncoderepeat
